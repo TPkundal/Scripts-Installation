@@ -20,7 +20,9 @@ sudo chmod +x Install-Docker.sh
 
 
 ---
+📌 Notes
+These scripts are designed only for Linux (Ubuntu) distributions.
 
-✅ This version is clean, professional, and fully in English. It clearly shows how to clone, make scripts executable, and run them, with your GitHub repo link and author name updated.  
+Run scripts with sudo privileges for proper installation.
 
-Would you like me to also add a **section listing each script with its purpose** (like Docker install, Nginx setup, Python environment, etc.), so that anyone visiting your repo immediately knows what each script does?
+Always review the script before executing to understand what it installs.
