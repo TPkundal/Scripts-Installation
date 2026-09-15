@@ -1,9 +1,19 @@
 # Scripts-Installation
-Installation Only Work for Ubuntu 18.04LTS, 20.04LTS and 22.04LTS 
 
-Steps to use the Scripts
-For Linux OS only
-1. Clone the repo by command, git clone https://github.com/AmanPathak-DevOps/Scripts-Installation.git
-2. cd Scripts-Installation
-3. sudo chmod +x <Script_name> e.g,sudo chmod +x Install-Docker.sh
-4. ./<Script_name> e.g ./Install-Docker.sh
+Automation scripts for installing essential tools and packages.  
+**Supported OS:** Ubuntu 18.04 LTS, 20.04 LTS, and 22.04 LTS  
+
+---
+
+## 🚀 Usage Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TPkundal/Scripts-Installation.git
+   cd Scripts-Installation
+sudo chmod +x <script_name>
+# Example:
+sudo chmod +x Install-Docker.sh
+./<script_name>
+# Example:
+./Install-Docker.sh
